@@ -33,6 +33,6 @@ Confusion matrix
 #  Model Result and Intepretation 
 
 |ALgorithm | Train F1 Score | Test F1 Score | 
-|-------------------------------------------------------------|
+|--------|---------------------------|---------|
 | Random Forest | 0.9652533106548414 | 0.9241678239279553 | 
 | XGBoost (with fine tuning) | 1.0 | 0.9081945945945946 |
